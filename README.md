@@ -21,7 +21,7 @@ Asegúrate de tener Node.js y npm instalados. Luego instala las dependencias:
   npm install
 ```
 
-##Uso
+## Uso
 
 ### 1. Importar Tailwind CSS
 
