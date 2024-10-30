@@ -37,11 +37,11 @@ Instalar Animate On Scroll:
 
 ## Personalización
 
-Al estar utilizando [Tailwind], la personalización puede adaptarse perfectamente a cualquier estilo de manera muy simple.
+Al estar utilizando [Tailwind], la personalización puede adaptarse perfectamente a cualquier estilo de manera muy simple y rápida.
 
 ---
 
-¡Añadelo a tus favoritos para utilizarlo en cualquier proyecto!  
+¡Añádelo a tus favoritos para utilizarlo en cualquier proyecto!  
 
 ¡Gracias por pasar!
 
