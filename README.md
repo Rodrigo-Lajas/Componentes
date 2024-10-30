@@ -1,10 +1,10 @@
-#Navbar Component
+# Navbar Component
 
 Este componente Navbar está construido utilizando Tailwind CSS y 
 Animate On Scroll (AOS). Sigue estos pasos para instalar las dependencias 
 y usar este componente en otros proyectos
 
-##Instalación
+## Instalación
 
 ### 1. Clonar el repositorio
 
@@ -35,7 +35,7 @@ Instalar Animate On Scroll:
   npm install aos ---save
 ```
 
-##Personalización
+## Personalización
 
 Al estar utilizando [Tailwind], la personalización puede adaptarse perfectamente a cualquier estilo de manera muy simple.
 
